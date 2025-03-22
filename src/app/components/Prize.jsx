@@ -6,7 +6,7 @@ import {
  
   CardHeader,
   CardTitle,
-} from "@/app/components/ui/card"
+} from "./ui/card"
 
 export default function prize()
 {
